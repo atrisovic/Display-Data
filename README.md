@@ -34,4 +34,3 @@ $ python app.py
 ```
 
 Navigate to http://localhost:8080 to see your application.
-# Display-Data
